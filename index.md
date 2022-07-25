@@ -16,6 +16,9 @@ gem install jekyll
 ```
 ERROR:  Error installing jekyll:
         ERROR: Failed to build gem native extension.
+        current directory: /Library/Ruby/Gems/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220725-31583-s1f30b.rb extconf.rb
+creating Makefile
 ```
 って出る。。。
 
